@@ -53,4 +53,3 @@ I am a Data Analyst with two years of experience at Deloitte and currently worki
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
 [![LangChain](https://img.shields.io/badge/LangChain-0056D2?style=for-the-badge&logo=LangChain&logoColor=white)](https://langchain.com)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-
