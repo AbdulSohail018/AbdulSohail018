@@ -4,11 +4,14 @@
 
 Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sohail! Welcome to my GitHub page!
 
-#### About Me
+## 📖 About Me
 
 I am a Data Analyst with two years of experience at Deloitte and currently working as a Data Engineer Intern at appCD. I am actively looking for full-time roles as a Data Analyst, Data Scientist, and Data Engineer. Please feel free to explore my projects and reach out!
 
-`Pronouns: He/Him`
+`Pronouns: He/Him` 
+
+
+![](https://komarev.com/ghpvc/?username=AbdulSohail018&color=green)
 
 <div id="badges">
     <p align="left">
@@ -50,4 +53,10 @@ I am a Data Analyst with two years of experience at Deloitte and currently worki
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
 [![LangChain](https://img.shields.io/badge/LangChain-0056D2?style=for-the-badge&logo=LangChain&logoColor=white)](https://langchain.com)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+## Some Projects -
+[![LLM Chat Bot](https://github-readme-stats.vercel.app/api/pin/?username=AbdulSohail018&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AbdulSohail018/LLM-Chat-Bot)
+[![H1B Visa Applications](https://github-readme-stats.vercel.app/api/pin/?username=AbdulSohail018&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AbdulSohail018/H1-B-Visa-Applications)
+[![Analysis of Moderation of VTuber Streams](https://github-readme-stats.vercel.app/api/pin/?username=AbdulSohail018&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AbdulSohail018/Analysis-of-Moderation-of-VTuber-Streams)
+[![AFK Adventures: Steam Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=AbdulSohail018&repo=AbdulSohail018&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AbdulSohail018/AFKAdventures)
 
