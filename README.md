@@ -12,7 +12,7 @@ I am a Data Analyst with two years of experience at Deloitte and currently worki
 
 <div id="badges">
     <p align="left">
-        <a href="https://www.linkedin.com/in/abdulsohailahmed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+        <a href="https://www.linkedin.com/in/abdul-sohail-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
         <a href="mailto:abdulsohail018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
         <a href="https://github.com/AbdulSohail018"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
     </p>
