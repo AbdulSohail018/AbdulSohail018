@@ -25,7 +25,7 @@ I am a Data Analyst with two years of experience at Deloitte and currently worki
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDIycXd2bWdxeTFpeGhzMWJ3YW85Z2cwdjBpNHAzbHhjZG9jbTFnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250">
 </p>
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)
 ![Excel](https://img.shields.io/badge/Excel-%2300A651.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
