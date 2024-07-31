@@ -6,7 +6,7 @@ Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/
 
 ## 📖 About Me
 
-I am a Data Analyst with two years of experience in the same role at Deloitte and currently working as a Data Engineer Intern at appCD. I am actively looking for full-time roles as a Data Analyst, Data Scientist, or Data Engineer. Please feel free to explore my projects and reach out!
+I am a Data Analyst with two years of experience in the same role at Deloitte and currently working as a Data Engineer Intern at appCD. I am actively looking for full-time roles as a Data Analyst, Data Scientist, or Data Engineer. Please feel free to explore my projects and would love to get in touch!
 
 `Pronouns: He/Him` 
 
