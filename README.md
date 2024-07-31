@@ -4,6 +4,8 @@
 
 Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sohail! Welcome to my GitHub page!
 
+[![An image of @abdulsohail018's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abdulsohail018)](https://holopin.io/@abdulsohail018)
+
 ## 📖 About Me
 
 I am a Data Analyst with two years of experience at Deloitte and currently working as a Data Engineer Intern at appCD. I am actively seeking full-time roles as a Data Analyst, Data Scientist, or Data Engineer. Please feel free to explore my projects, and I would love to get in touch!
