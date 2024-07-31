@@ -55,3 +55,15 @@ I am a Data Analyst with two years of experience at Deloitte and currently worki
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
 [![LangChain](https://img.shields.io/badge/LangChain-0056D2?style=for-the-badge&logo=LangChain&logoColor=white)](https://langchain.com)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+## 🎖️ Achievements
+
+- **Prime Minister Trophy**: Awarded for being in the merit category in high school.
+  
+- **24-hour Hackathon by Ethnus**: Received a participation award for pitching an interesting business idea and demonstrating a prototype at this event.
+  
+- **Shining Star Award at Deloitte**: Recognized for exceptional performance and being a valuable resource during Deloitte's busy season (Jan 2022 - Mid-April 2022).
+  
+- **Spot Award at Deloitte**: Awarded for excellence in work contributions during Q3 FY21 and Q4 FY21.
+  
+- **University Governance Award**: Recognized for effective contributions towards the university by serving on the Student Fairness Committee, ensuring fair judgment of cases filed by students.
