@@ -1,6 +1,6 @@
 # Abdul Sohail Ahmed
 
-**`👨‍💻 Data Analyst and Data Engineer`**
+**`👨‍💻 Data Analyst and Data Scientist`**
 
 Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Sohail! Welcome to my GitHub page!
 
