@@ -8,7 +8,7 @@ Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/
 
 ## 📖 About Me
 
-I am a data analyst with two years of experience at Deloitte, and I am currently working as a data engineer intern at StackGen. I am actively seeking full-time roles as a Data Analyst, Data Scientist, or Data Engineer. Please feel free to explore my projects. Looking forward to connecting with you! Whether it's for a new project, collaboration, or just to chat about tech, feel free to reach out!
+I am a data analyst with two years of experience at Deloitte, and I recently completed working as a data engineer intern at StackGen. I am actively seeking full-time roles as a Data Analyst, Data Scientist, or Data Engineer. Please feel free to explore my projects. Looking forward to connecting with you! Whether it's for a new project, collaboration, or just to chat about tech, feel free to reach out!
 
 `Pronouns: He/Him` 
 
