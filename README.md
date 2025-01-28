@@ -57,6 +57,7 @@ I am a data analyst with two years of experience at Deloitte, and I recently com
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
 [![LangChain](https://img.shields.io/badge/LangChain-0056D2?style=for-the-badge&logo=LangChain&logoColor=white)](https://langchain.com)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-%23258FFA.svg?style=for-the-badge&logo=looker&logoColor=white)
 
 ## 🎖️ Achievements
 
