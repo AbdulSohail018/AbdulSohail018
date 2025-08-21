@@ -8,7 +8,9 @@ Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/
 
 ## 📖 About Me
 
-I am a data analyst with two years of experience at Deloitte, and I recently completed working as a data engineer intern at StackGen. I am actively seeking full-time roles as a Data Analyst, Data Scientist, or Data Engineer. Please feel free to explore my projects. Looking forward to connecting with you! Whether it's for a new project, collaboration, or just to chat about tech, feel free to reach out!
+I am a Data Analyst at Flix, where I design and automate HR data workflows, orchestrate daily Power BI dashboard updates, and deliver workforce insights that drive strategic decision-making. Previously, I worked as a Data Engineer Intern at StackGen, where I built a data-driven microservice manifest generator and worked with big data technologies, and as a Data Analyst at Deloitte for two years, contributing to financial analysis, fraud detection, and dashboard development.
+
+I am actively seeking full-time roles as a Data Analyst, Data Scientist, Software Engineer, or Data Engineer. Please feel free to explore my projects. Looking forward to connecting with you! Whether it’s for a new project, collaboration, or just to chat about tech, feel free to reach out!
 
 `Pronouns: He/Him` 
 
