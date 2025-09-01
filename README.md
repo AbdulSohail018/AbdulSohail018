@@ -1,7 +1,5 @@
 # Abdul Sohail Ahmed
 
-**`👨‍💻 Data Analyst and Data Scientist`**
-
 Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Sohail! Welcome to my GitHub page!
 
 [![An image of @abdulsohail018's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abdulsohail018)](https://holopin.io/@abdulsohail018)
