@@ -6,9 +6,9 @@ Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/
 
 ## 📖 About Me
 
-I am a Data Analyst at Flix, where I design and automate HR data workflows, orchestrate daily Power BI dashboard updates, and deliver workforce insights that drive strategic decision-making. Previously, I worked as a Data Engineer Intern at StackGen, where I built a data-driven microservice manifest generator and worked with big data technologies, and as a Data Analyst at Deloitte for two years, contributing to financial analysis, fraud detection, and dashboard development.
+I am a Software Engineer at Walmart, where I design and implement scalable backend services using Java, Spring Boot, and distributed systems technologies like Kafka, BigQuery, and Cassandra, while ensuring system reliability through monitoring and optimization. Previously, I worked as a Data Analyst at Flix, where I designed and automated HR data workflows, orchestrated daily Power BI dashboard updates, and delivered workforce insights that drove strategic decision-making. Before that, I was a Data Engineer Intern at StackGen, where I built a data-driven microservice manifest generator and worked with big data technologies, and a Data Analyst at Deloitte for two years, contributing to financial analysis, fraud detection, and dashboard development.
 
-I am actively seeking full-time roles as a Data Analyst, Data Scientist, Software Developer, or Data Engineer. Please feel free to explore my projects. Looking forward to connecting with you! Whether it’s for a new project, collaboration, or just to chat about tech, feel free to reach out!
+I am actively seeking full-time roles as a Software Engineer, Data Analyst, Data Scientist, or Data Engineer. Please feel free to explore my projects. Looking forward to connecting with you! Whether it's for a new project, collaboration, or just to chat about tech, feel free to reach out!
 
 `Pronouns: He/Him` 
 
